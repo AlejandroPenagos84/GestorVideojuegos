@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# Entorno de variables
+.env
+
+# Entornos virtuales de Python
+venv/
+.env/
+
+# Archivos de configuración específicos del entorno
+*.local
